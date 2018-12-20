@@ -21,7 +21,7 @@
   "dependencies": {
     "canvas": "^1.3.5",
     "jsdom": "^9.4.0",
-    "paper": "git+https://github.com/jackytwh/paper-jsdom-canvas.git#a6099ea",
+    "paper": "git+https://github.com/jackytwh/paper.js.git#a6099ea",
     "source-map-support": "^0.4.0"
   },
   "keywords": [
